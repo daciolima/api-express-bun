@@ -207,3 +207,10 @@
 2023-10-07T05:05:14.215Z [logger-bank-api] info: PATCH /account/id - {"id":10,"balance":3600}
 2023-10-07T05:05:25.577Z [logger-bank-api] info: GET /account
 2023-10-07T12:41:54.746Z [logger-bank-api] info: It´s Server!
+2023-10-07T13:46:27.091Z [logger-bank-api] info: It´s Server!
+2023-10-07T13:48:44.598Z [logger-bank-api] info: It´s Server!
+2023-10-07T13:50:22.628Z [logger-bank-api] info: It´s Server!
+2023-10-07T14:27:53.515Z [logger-bank-api] info: It´s Server!
+2023-10-07T14:28:05.907Z [logger-bank-api] info: It´s Server!
+2023-10-07T14:29:09.779Z [logger-bank-api] info: It´s Server!
+2023-10-07T15:03:23.526Z [logger-bank-api] info: It´s Server!
