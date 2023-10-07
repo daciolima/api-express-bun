@@ -1,0 +1,14 @@
+<html>
+    <script>
+        let xhtml = new XMLHttpRequest();
+        xhtml.onreadystatechange = function() {
+            if(this.readyState == 4 && this.status == 200) {
+                console.log(this)
+            }
+        };
+        xhtml.open("GET", "http://localhost:3000/account");
+        xhtml.send();
+
+    </script>
+
+</html>

@@ -1,0 +1,45 @@
+{
+  "nextId": 14,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Isaac Lima",
+      "balance": 2
+    },
+    {
+      "id": 4,
+      "name": "Wall Lima",
+      "balance": 200
+    },
+    {
+      "id": 5,
+      "name": "Marcos Mendess3",
+      "balance": 4000
+    },
+    {
+      "id": 6,
+      "name": "Maze Lima",
+      "balance": 200
+    },
+    {
+      "id": 7,
+      "name": "Diel Lima",
+      "balance": 200
+    },
+    {
+      "id": 8,
+      "name": "Samuel Lima",
+      "balance": 200
+    },
+    {
+      "id": 9,
+      "name": "Vera Mendes",
+      "balance": 200
+    },
+    {
+      "id": 10,
+      "name": "Lucia Mendes123000",
+      "balance": 3600
+    }
+  ]
+}

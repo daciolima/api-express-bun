@@ -1,0 +1,209 @@
+2023-10-05T11:15:44.925Z [logger-bank-api] info: It´s Server!
+2023-10-05T11:18:14.713Z [logger-bank-api] info: It´s Server!
+2023-10-05T11:19:18.828Z [logger-bank-api] info: It´s Server!
+2023-10-05T11:19:58.035Z [logger-bank-api] info: It´s Server!
+2023-10-05T11:20:23.742Z [logger-bank-api] info: It´s Server!
+2023-10-05T11:21:44.210Z [logger-bank-api] info: It´s Server!
+2023-10-05T11:21:59.556Z [logger-bank-api] info: It´s Server!
+2023-10-05T11:22:09.398Z [logger-bank-api] info: GET /account
+2023-10-05T11:23:22.045Z [logger-bank-api] info: It´s Server!
+2023-10-05T13:55:42.207Z [logger-bank-api] info: It´s Server!
+2023-10-05T13:56:26.067Z [logger-bank-api] info: It´s Server!
+2023-10-05T13:56:37.265Z [logger-bank-api] info: It´s Server!
+2023-10-05T14:58:00.198Z [logger-bank-api] info: It´s Server!
+2023-10-05T14:58:02.191Z [logger-bank-api] error: POST - /account - Name e Balance são obrigatório.
+2023-10-05T14:58:52.372Z [logger-bank-api] info: It´s Server!
+2023-10-05T17:39:09.506Z [logger-bank-api] info: It´s Server!
+2023-10-05T21:46:45.834Z [logger-bank-api] info: It´s Server!
+2023-10-05T21:49:51.028Z [logger-bank-api] error: POST - /account - Name e Balance são obrigatório.
+2023-10-05T21:50:03.028Z [logger-bank-api] info: POST /account - {"id":10,"name":"Walmir Mendes","balance":3000}
+2023-10-05T21:51:58.217Z [logger-bank-api] info: It´s Server!
+2023-10-05T21:55:39.721Z [logger-bank-api] info: It´s Server!
+2023-10-05T22:00:14.391Z [logger-bank-api] info: It´s Server!
+2023-10-05T22:01:33.347Z [logger-bank-api] info: It´s Server!
+2023-10-05T22:02:48.562Z [logger-bank-api] info: It´s Server!
+2023-10-06T00:04:11.045Z [logger-bank-api] info: It´s Server!
+2023-10-06T00:05:22.712Z [logger-bank-api] info: GET /account
+2023-10-06T18:54:53.043Z [logger-bank-api] info: It´s Server!
+2023-10-06T19:00:10.082Z [logger-bank-api] error: POST - /account - readFile is not defined
+2023-10-06T19:01:57.927Z [logger-bank-api] info: It´s Server!
+2023-10-06T19:02:00.193Z [logger-bank-api] error: POST - /account - readFile is not defined
+2023-10-06T19:02:54.270Z [logger-bank-api] info: It´s Server!
+2023-10-06T19:02:58.502Z [logger-bank-api] info: POST /account - {"id":11,"name":"Lucia Mendes","balance":3000}
+2023-10-06T19:03:13.411Z [logger-bank-api] info: It´s Server!
+2023-10-06T19:03:17.866Z [logger-bank-api] info: POST /account - {"id":12,"name":"Marcos Mendes","balance":3000}
+2023-10-06T19:03:28.192Z [logger-bank-api] info: It´s Server!
+2023-10-06T19:10:48.933Z [logger-bank-api] info: It´s Server!
+2023-10-06T19:19:40.728Z [logger-bank-api] info: It´s Server!
+2023-10-06T19:25:48.646Z [logger-bank-api] info: It´s Server!
+2023-10-06T19:25:57.134Z [logger-bank-api] info: It´s Server!
+2023-10-06T19:26:15.589Z [logger-bank-api] info: GET /account
+2023-10-06T23:00:47.200Z [logger-bank-api] info: It´s Server!
+2023-10-06T23:05:59.847Z [logger-bank-api] info: It´s Server!
+2023-10-06T23:07:02.747Z [logger-bank-api] info: It´s Server!
+2023-10-06T23:08:35.094Z [logger-bank-api] info: It´s Server!
+2023-10-06T23:08:42.876Z [logger-bank-api] info: It´s Server!
+2023-10-06T23:11:24.027Z [logger-bank-api] info: It´s Server!
+2023-10-06T23:12:43.660Z [logger-bank-api] info: It´s Server!
+2023-10-06T23:12:50.261Z [logger-bank-api] info: It´s Server!
+2023-10-06T23:13:01.354Z [logger-bank-api] info: GET /account
+2023-10-06T23:13:02.254Z [logger-bank-api] info: GET /account
+2023-10-06T23:13:03.170Z [logger-bank-api] info: GET /account
+2023-10-06T23:14:55.360Z [logger-bank-api] info: It´s Server!
+2023-10-06T23:16:20.241Z [logger-bank-api] info: It´s Server!
+2023-10-06T23:18:03.539Z [logger-bank-api] info: It´s Server!
+2023-10-06T23:18:12.738Z [logger-bank-api] info: It´s Server!
+2023-10-06T23:18:33.366Z [logger-bank-api] error: GET - /account - accountService.getOneAccount is not a function
+2023-10-06T23:18:50.731Z [logger-bank-api] info: It´s Server!
+2023-10-06T23:18:56.724Z [logger-bank-api] info: GET /account/id - {"id":5,"name":"Dacio Lima","balance":3000}
+2023-10-06T23:34:04.216Z [logger-bank-api] info: It´s Server!
+2023-10-06T23:38:45.432Z [logger-bank-api] info: It´s Server!
+2023-10-06T23:51:03.000Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:01:58.221Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:02:55.844Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:04:15.205Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:04:19.202Z [logger-bank-api] error: PUT - /account - Name e Balance são obrigatório.
+2023-10-07T00:04:25.101Z [logger-bank-api] error: PUT - /account - Name e Balance são obrigatório.
+2023-10-07T00:05:40.164Z [logger-bank-api] info: GET /account/id - {"id":5,"name":"Dacio Lima","balance":3000}
+2023-10-07T00:07:06.240Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:07:30.524Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:08:01.936Z [logger-bank-api] info: PUT /account/id - {"nextId":13,"accounts":[{"id":1,"name":"Isaac Lima","balance":2},{"id":4,"name":"Wall Lima","balance":200},{"id":5,"name":"Marcos Mendess","balance":3000},{"id":6,"name":"Maze Lima","balance":200},{"id":7,"name":"Diel Lima","balance":200},{"id":8,"name":"Samuel Lima","balance":200},{"id":9,"name":"Vera Mendes","balance":200},{"id":10,"name":"Walmir Mendes","balance":3000},{"id":11,"name":"Lucia Mendes","balance":3000},{"id":12,"name":"Marcos Mendes","balance":3000}]}
+2023-10-07T00:09:57.689Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:10:09.640Z [logger-bank-api] info: PUT /account/id - {"id":5,"name":"Marcos Mendess3","balance":3050}
+2023-10-07T00:11:04.772Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:11:44.851Z [logger-bank-api] error: PUT - /account - Registro não encontrado
+2023-10-07T00:11:50.761Z [logger-bank-api] info: PUT /account/id - {"id":5,"name":"Marcos Mendess3","balance":3050}
+2023-10-07T00:12:07.710Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:34:40.445Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:36:21.464Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:36:57.105Z [logger-bank-api] error: PATCH - /account - ID e balance são obrigatório.
+2023-10-07T00:37:12.688Z [logger-bank-api] info: PATCH /account/id - {"id":5,"balance":4000}
+2023-10-07T00:37:21.761Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:37:29.324Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:41:34.782Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:42:45.161Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:43:39.519Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:43:55.819Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:47:19.322Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:47:26.781Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:48:37.879Z [logger-bank-api] info: GET /account
+2023-10-07T00:49:10.220Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:49:15.882Z [logger-bank-api] info: DELETE /account/id - undefined
+2023-10-07T00:49:26.406Z [logger-bank-api] info: GET /account
+2023-10-07T00:50:13.539Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:50:18.311Z [logger-bank-api] info: GET /account
+2023-10-07T00:50:20.925Z [logger-bank-api] info: GET /account
+2023-10-07T00:50:32.689Z [logger-bank-api] info: DELETE /account/id - undefined
+2023-10-07T00:50:35.097Z [logger-bank-api] info: DELETE /account/id - undefined
+2023-10-07T00:51:26.318Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:51:30.294Z [logger-bank-api] info: DELETE /account/id - 13
+2023-10-07T00:55:07.085Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:56:14.386Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:56:19.202Z [logger-bank-api] info: DELETE /account/id - 13
+2023-10-07T00:56:41.773Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:56:44.062Z [logger-bank-api] error: DELETE - /account - Cannot remove headers after they are sent to the client
+2023-10-07T00:57:14.444Z [logger-bank-api] info: GET /account
+2023-10-07T00:57:28.305Z [logger-bank-api] error: DELETE - /account - Cannot remove headers after they are sent to the client
+2023-10-07T00:58:49.629Z [logger-bank-api] info: It´s Server!
+2023-10-07T00:59:04.143Z [logger-bank-api] error: DELETE - /account - Cannot remove headers after they are sent to the client
+2023-10-07T01:00:01.525Z [logger-bank-api] error: DELETE - /account - Cannot remove headers after they are sent to the client
+2023-10-07T01:00:12.157Z [logger-bank-api] info: GET /account
+2023-10-07T01:01:29.094Z [logger-bank-api] info: It´s Server!
+2023-10-07T01:01:48.032Z [logger-bank-api] info: DELETE /account/id - 12
+2023-10-07T01:02:01.038Z [logger-bank-api] info: GET /account
+2023-10-07T01:02:14.829Z [logger-bank-api] info: It´s Server!
+2023-10-07T01:02:29.442Z [logger-bank-api] info: It´s Server!
+2023-10-07T01:02:46.693Z [logger-bank-api] info: It´s Server!
+2023-10-07T01:05:28.283Z [logger-bank-api] info: It´s Server!
+2023-10-07T01:05:35.152Z [logger-bank-api] info: It´s Server!
+2023-10-07T01:51:57.131Z [logger-bank-api] info: It´s Server!
+2023-10-07T02:03:04.869Z [logger-bank-api] info: It´s Server!
+2023-10-07T02:03:21.691Z [logger-bank-api] info: It´s Server!
+2023-10-07T02:04:50.591Z [logger-bank-api] info: It´s Server!
+2023-10-07T03:46:10.664Z [logger-bank-api] info: It´s Server!
+2023-10-07T03:47:53.012Z [logger-bank-api] info: It´s Server!
+2023-10-07T03:53:39.786Z [logger-bank-api] info: It´s Server!
+2023-10-07T03:57:02.875Z [logger-bank-api] info: It´s Server!
+2023-10-07T03:57:13.896Z [logger-bank-api] info: It´s Server!
+2023-10-07T03:57:27.130Z [logger-bank-api] error: POST - /account - Cannot read properties of undefined (reading 'nextId')
+2023-10-07T03:58:06.836Z [logger-bank-api] info: It´s Server!
+2023-10-07T03:58:12.802Z [logger-bank-api] error: POST - /account - Cannot read properties of undefined (reading 'nextId')
+2023-10-07T03:58:13.901Z [logger-bank-api] error: POST - /account - Cannot read properties of undefined (reading 'nextId')
+2023-10-07T03:58:14.622Z [logger-bank-api] error: POST - /account - Cannot read properties of undefined (reading 'nextId')
+2023-10-07T03:58:15.450Z [logger-bank-api] error: POST - /account - Cannot read properties of undefined (reading 'nextId')
+2023-10-07T03:59:16.103Z [logger-bank-api] info: It´s Server!
+2023-10-07T03:59:21.406Z [logger-bank-api] error: POST - /account - Cannot read properties of undefined (reading 'nextId')
+2023-10-07T03:59:22.710Z [logger-bank-api] error: POST - /account - Cannot read properties of undefined (reading 'nextId')
+2023-10-07T03:59:23.358Z [logger-bank-api] error: POST - /account - Cannot read properties of undefined (reading 'nextId')
+2023-10-07T03:59:58.217Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:00:01.340Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:00:13.966Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:05:20.689Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:06:15.552Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:06:21.767Z [logger-bank-api] info: GET /account
+2023-10-07T04:06:23.168Z [logger-bank-api] info: GET /account
+2023-10-07T04:06:23.985Z [logger-bank-api] info: GET /account
+2023-10-07T04:06:24.665Z [logger-bank-api] info: GET /account
+2023-10-07T04:06:25.235Z [logger-bank-api] info: GET /account
+2023-10-07T04:06:25.431Z [logger-bank-api] info: GET /account
+2023-10-07T04:07:24.015Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:08:21.386Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:08:34.370Z [logger-bank-api] info: GET /account
+2023-10-07T04:08:35.567Z [logger-bank-api] info: GET /account
+2023-10-07T04:09:01.985Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:09:03.851Z [logger-bank-api] info: GET /account
+2023-10-07T04:12:18.300Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:12:44.366Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:13:02.879Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:13:33.297Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:13:54.062Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:14:04.817Z [logger-bank-api] info: POST /account - {"name":"Lucia Mendes123","balance":3000}
+2023-10-07T04:16:19.952Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:17:06.765Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:17:20.284Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:19:18.693Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:19:36.231Z [logger-bank-api] info: GET /account/id - {"id":5,"name":"Marcos Mendess3","balance":4000}
+2023-10-07T04:22:25.226Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:22:56.444Z [logger-bank-api] info: GET /account/id - {"id":5,"name":"Marcos Mendess3","balance":4000}
+2023-10-07T04:24:58.854Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:25:31.501Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:25:33.446Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:25:41.004Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:25:49.944Z [logger-bank-api] info: GET /account
+2023-10-07T04:25:59.308Z [logger-bank-api] info: DELETE /account/id - 13
+2023-10-07T04:26:12.009Z [logger-bank-api] info: GET /account
+2023-10-07T04:27:37.208Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:27:40.603Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:28:00.002Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:29:13.231Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:41:05.412Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:41:24.417Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:41:48.698Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:42:19.960Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:43:04.211Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:44:52.229Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:45:03.110Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:48:51.558Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:49:15.043Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:51:59.756Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:52:19.755Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:52:32.649Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:55:06.174Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:56:26.554Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:59:09.666Z [logger-bank-api] info: It´s Server!
+2023-10-07T04:59:23.553Z [logger-bank-api] info: GET /account
+2023-10-07T04:59:30.695Z [logger-bank-api] info: GET /account/id - {"id":4,"name":"Wall Lima","balance":200}
+2023-10-07T04:59:36.904Z [logger-bank-api] info: GET /account
+2023-10-07T04:59:51.848Z [logger-bank-api] info: DELETE /account/id - 11
+2023-10-07T04:59:59.664Z [logger-bank-api] info: GET /account
+2023-10-07T05:00:36.248Z [logger-bank-api] info: It´s Server!
+2023-10-07T05:01:28.920Z [logger-bank-api] info: PUT /account/id - {"id":10,"name":"Lucia Mendes123000","balance":3000}
+2023-10-07T05:01:40.488Z [logger-bank-api] info: GET /account
+2023-10-07T05:02:02.112Z [logger-bank-api] info: GET /account
+2023-10-07T05:02:40.754Z [logger-bank-api] error: PATCH - /account - Registro não encontrado
+2023-10-07T05:02:52.796Z [logger-bank-api] info: GET /account
+2023-10-07T05:03:15.035Z [logger-bank-api] error: PATCH - /account - Registro não encontrado
+2023-10-07T05:05:06.902Z [logger-bank-api] info: It´s Server!
+2023-10-07T05:05:14.215Z [logger-bank-api] info: PATCH /account/id - {"id":10,"balance":3600}
+2023-10-07T05:05:25.577Z [logger-bank-api] info: GET /account
+2023-10-07T12:41:54.746Z [logger-bank-api] info: It´s Server!
