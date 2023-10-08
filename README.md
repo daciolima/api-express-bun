@@ -1,4 +1,4 @@
-###Projeto Backend - API EXPRESS
+### Projeto Backend - API EXPRESS
 Projeto está rodando como base o Bun
 Mais sobre: https://bun.sh/
 
@@ -16,7 +16,7 @@ Mais sobre: https://bun.sh/
 - Schema => GraphQL
 
 
-#### GraphQL. Interface web
+#### Interface GraphQL
 **Query - READ**
 ```python
 {	
@@ -33,8 +33,9 @@ Mais sobre: https://bun.sh/
 }
 ```
 
-### GraphQL. Interface web
+#### Interface GraphQL
 **Mutation - CREATE, UPDATE, DELETE**
+```python
 mutation {
   createAccount(account: {
     name: "Carla Silva",
@@ -59,8 +60,9 @@ mutation {
   
   deleteAccount(id: 16)
 }
+```
 
-### Exemplo de consulta GraphQL via Client Rest.
+**Exemplo de consulta GraphQL via Client Rest.**
 ```shell 
 { 
   "query":  "{ getAccounts { id, name, balance } }" 
