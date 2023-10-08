@@ -9,8 +9,6 @@ async function getAccounts(){
 
     delete data.nextId
 
-    console.log(data)
-
     return data.accounts;
 }
 

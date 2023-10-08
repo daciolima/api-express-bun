@@ -1,4 +1,4 @@
-import accountRepository from '../repositories/accountRepository.js'
+import accountRepository from '../../repositories/accountRepository.js'
 
 
 async function createAccount(account) {  
